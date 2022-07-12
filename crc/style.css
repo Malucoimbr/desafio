@@ -455,8 +455,8 @@ text-transform:uppercase;
         justify-content: space-around;
         color: white;
         margin-top: 44px;
-        width: 1317px;
-        height: 110px; 
+        /* width: 1317px;
+        height: 110px;  */
     }
 
 
@@ -474,4 +474,22 @@ text-transform:uppercase;
         width: 350px;
         margin: 0 auto;
     }
+.icones{
+    margin-bottom: -23px;
+    margin-left: -19px;
+
+}
+.links{
+
+}
+.iconjogga{
+    margin: 3px 4px 3px 116px;
+    /* FONT-WEIGHT: 100; */
+    /* FONT-WEIGHT: 100; */
+    width: 146px;
+
+}
+.butau{
+    margin-right: -42px;
+}
 
