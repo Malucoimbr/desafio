@@ -140,10 +140,6 @@ text-transform:uppercase;
     -moz-box-shadow: rgba(0,0,0,0.8) 0 0 10px;
     box-shadow: rgba(0,0,0,0.8) 0 0 10px;
 }
-.checkbox {
-    /* display: flex; */
-    /* line-height: 25px; */
-}
 
 .checkbox label{
     /* display: flex; */
@@ -420,9 +416,6 @@ text-transform:uppercase;
 
   }
 
-  .caixinhapreta2 p{
-    /* font-size: 14px; */
-  }
     .caixinha_button{
         background-color: green;
         color: aliceblue;
