@@ -52,6 +52,21 @@ header{
     display: flex; 
     width: 213px;
 }
+
+.bblackbutto{
+    background-color: rgba(4,201,105,1);
+    color: aliceblue;
+    border: none;
+    height: 55px;
+    line-height: 14px;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-radius: 30px;
+    margin-top: 15px;
+    display: flex; 
+    width: 213px;
+
+}
 .header_button p{
     font-size: 12px;
     
